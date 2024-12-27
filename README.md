@@ -48,7 +48,6 @@ This endpoint allows you to start the scraping process. You can customize the se
       "product_price": 2272.00,
       "image_ref": "https://dentalstall.com/wp-content/uploads/2023/03/3m_espe_sof-lex_finishing_strips_-_refill-300x300.jpg"
     },
-    ...
   ]
 }
 ```
